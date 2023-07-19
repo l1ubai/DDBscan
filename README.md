@@ -90,9 +90,9 @@ emm....这个功能有时候好用有时候又觉得很鸡肋，但是各位师�
 
 ## Dnslog Panel
 
+![Dnslog](https://github.com/l1ubai/DDBscan/blob/main/4.png)
 
-
-这里就是dnslog配置的地方了
+dnslog配置
 
 两种：第一种是ceye，第二种是自己搭的dns，搭建方式参见
 
