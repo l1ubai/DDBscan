@@ -90,7 +90,7 @@ emm....这个功能有时候好用有时候又觉得很鸡肋，但是各位师�
 
 ## Dnslog Panel
 
-![Dnslog](https://github.com/l1ubai/DDBscan/blob/main/4.png)
+
 
 这里就是dnslog配置的地方了
 
