@@ -1,5 +1,5 @@
 ## 插件介绍：
-DDB(大呆逼scan)
+DDB
 
 前身链接https://github.com/l1ubai/GyScan
 
